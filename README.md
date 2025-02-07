@@ -1,4 +1,4 @@
-All versions found on the Workshop will be actioned and the Steam account will be blacklisted from files usage.
+All versions packed and found on the Workshop will be actioned and the Steam account will be blacklisted from files usage.
 
 NOTE:
 To create CEFILES for a Map is a big work, expect some bugs and problems!
