@@ -1,0 +1,383 @@
+{
+    "Triggers":
+	[
+		{ 	
+			"Position": [ 29189.93, 69.527, 18443.14],
+			"Orientation": [ 326.353, 0, 0 ],
+			"Size": [ 20, 11, 11 ],
+			"EyeAccommodation": 1,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 29197.23, 65.493, 18431.760 ],
+			"Orientation": [ 323.00, 0, 0 ],
+			"Size": [ 20, 10, 20 ],
+			"EyeAccommodation": 1,
+			"Breadcrumbs":
+			[
+				{			
+					"Position": [ 29186.650391 , 0.649544, 18445.544922 ],
+					"EyeAccommodation": 1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 29184.064453, 1.164108, 18441.316406 ],
+					"EyeAccommodation": 1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 29188.523438,  0.993332, 18433.359375 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 29185.619141, 0.959702, 18442.966797 ],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 29186.080078, 1.304749, 18437.878906 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 29190.861328,0.993172, 18435.291016 ],
+					"EyeAccommodation": 0.0,
+					"UseRaycast": 1,
+					"Radius": -1
+				}				
+			]
+		},
+		{ 	
+			"Position": [ 29197.969, 69.277, 18428.057 ],
+			"Orientation": [ 56.207, 0, 0 ],
+			"Size": [ 15, 10, 15 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29243.516, 61.532, 18368.031 ],
+			"Orientation": [ 56.336, 0, 0 ],
+			"Size": [ 140, 60, 104.6 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29208.203, 63.944, 18314.209 ], 
+			"Orientation": [ 56.33, 0, 0 ],
+			"Size": [ 40, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29179.484, 85.788, 18284.383 ], 
+			"Orientation": [ 58.270, 0, 0 ],
+			"Size": [ 40, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29198.156, 86.086, 18290.313 ], 
+			"Orientation": [ 58.270, 0, 0 ],
+			"Size": [ 70, 24, 24 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29174.656, 88.480, 18266.705 ], 
+			"Orientation": [ 56.207, 0, 0 ],
+			"Size": [ 20, 10, 10 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29249.422, 34.109, 18386.150 ],
+			"Orientation": [ 56.207, 0, 0 ],
+			"Size": [ 10, 10, 10 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29240.703, 101.199, 18345.375 ],
+			"Orientation": [ 56.336, 0, 0 ],
+			"Size": [ 120, 20, 100 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29199.906, 85.744, 18289.375 ],
+			"Orientation": [ 58.270, 0, 0 ],
+			"Size": [ 40, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29216.313, 87.453, 18299.732 ],
+			"Orientation": [ 58.27, 0, 0 ],
+			"Size": [ 40, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29247.391, 28.378, 18366.559 ],
+			"Orientation": [ 58.336, 0, 0 ],
+			"Size": [ 40, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29216.953, 113.627, 18319.459 ],
+			"Orientation": [ 56.594, 0, 0 ],
+			"Size": [ 10, 10, 10 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 29173.656, 88.324, 18268.928 ],
+			"Orientation": [ 56.2, 0, 0 ],
+			"Size": [ 35, 12, 14 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{
+			"Position": [ 29217.438, 121.538, 18320.787 ],
+			"Orientation": [ 56.207, 0, 0 ],
+			"Size": [ 10, 10, 10 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":
+			[
+				{			
+					"Position": [ 29216.142, 88.08, 18322.43 ],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 29216.099, 93.04, 18322.55 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 29218.193, 90.81, 18319.23 ],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 29214.89, 87.51, 18318.62 ],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 29219.765, 95.04,18318.53 ],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 29217.484, 94.13,18317.05 ],
+					"EyeAccommodation": 0.6,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 29218.8, 95.66, 18321.52 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 29214.044, 91.45,18320.15 ],
+					"EyeAccommodation": 0.85,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 29215.234, 93.59,18318.5 ],
+					"EyeAccommodation": 0.95,
+					"UseRaycast": 0,
+					"Radius": -1
+				}
+			]
+		},
+		{ 	
+			"Position": [ 18773.75, 3.213, 20877.138 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 10, 10, 10 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": 
+			[
+			{
+					"Position": [ 18775.141, 1.774, 20877.256 ],
+					"EyeAccommodation": 0.0,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 18775.203, 3.870, 20878.570 ],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 18775.203, 5.635, 20878.570 ],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 18775.203, 7.405, 20878.570 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{	"Position": [ 18775.203, 8.577, 20878.570 ],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": -1
+				}
+			]
+		},
+		{ 	
+			"Position": [ 18761.878, -1.594, 20878.79 ],
+			"Orientation": [ 0.386, 0, 0 ],
+			"Size": [ 20, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 18778.734, -1.764, 20862.176 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 100, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 
+			"Position": [ 18778.531, -1.913, 20842.596 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 100, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 18779.125, -1.686, 20824.248 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 100, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 18804.125, -1.921, 20863.199 ],
+			"Orientation": [ 0.773, 0, 0 ],
+			"Size": [ 20, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 18861.984, -1.761, 20844.128 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 80, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 18924.312, -1.629, 20834.529 ],
+			"Orientation": [ 0.664, 0, 0 ],
+			"Size": [ 42, 22, 22 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 18924.313, -0.337, 20853.895 ],
+			"Orientation": [ 0.645, 0, 0 ],
+			"Size": [ 42, 20, 22 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 18862.56, -1.054, 20863.427 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 80, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 18862.57, -2.793, 20825.781 ],
+			"Orientation": [ 359.35, 0, 0 ],
+			"Size": [ 80, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 18954.594, -1.800, 20844.826 ],
+			"Orientation": [ 270.791, 0, 0 ],
+			"Size": [ 40, 20, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 26349.375, 26.881, 24676.467 ],
+			"Orientation": [ 347.624, 0, 0 ],
+			"Size": [ 10, 10, 10 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": 
+			[
+				{
+					"Position": [ 26349.234, 25.972, 24676.480 ],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 26349.234, 29.237, 24676.477 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 26349.156, 31.969, 24676.424 ],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": -1
+				}
+			]
+		},
+		{ 	
+			"Position": [ 26316.234, -5.796, 24709.713 ],
+			"Orientation": [ 76.834, 0, 0 ],
+			"Size": [ 140, 60, 80 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": 
+			[
+				{
+					"Position": [ 26349.281, 15.302, 24676.480 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 26349.281, 18.061, 24676.486 ],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 1,
+					"Radius": -1
+				}
+			
+			]
+		},
+		{ 	
+			"Position": [ 26296.938, 14.265, 24785.002 ],
+			"Orientation": [ 346.722, 0, 0 ],
+			"Size": [ 80, 20, 30 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		}		
+	]
+}
