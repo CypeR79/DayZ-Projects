@@ -12,6 +12,7 @@
 				<default name="clusterMatrix" de="TrajectoryPear" width="12" height="12"/>
 				<default name="clusterMatrix" de="TrajectoryPlum" width="12" height="12"/>
 				<default name="clusterMatrix" de="TrajectoryFig" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryCoconut" width="12" height="12"/>		
 <!--
 				<default name="clusterMatrix" de="TrajectoryStumps" width="12" height="12"/>
 -->
