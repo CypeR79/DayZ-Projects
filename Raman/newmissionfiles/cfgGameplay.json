@@ -1,5 +1,5 @@
 {
-	"version": 122,
+	"version": 123,
 	"GeneralData":
 	{
 		"disableBaseDamage": false,
@@ -9,7 +9,7 @@
 	},
     "PlayerData":
 	{
-		"disablePersonalLight": true,
+		"disablePersonalLight": false,
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
@@ -44,14 +44,19 @@
 			"staminaDepletionSpeed": 10.0,
 			"healthDepletionSpeed": 10.0,
 			"shockDepletionSpeed": 10.0
+		},
+		"WeaponObstructionData":
+		{
+			"staticMode": 1,
+			"dynamicMode": 1
 		}
 	},
 	"WorldsData":
 	{
 		"lightingConfig": 0,
 		"objectSpawnersArr": [],
-		"environmentMinTemps": [-6, -6.4, -5.1, 1.5, 7, 11.3, 19, 17, 15, 5.3, 0.8, -2.6],
-		"environmentMaxTemps": [-1.5, -1.1, 3.3, 9, 17, 21, 23, 22, 21, 10.5, 4.2, 1.1],
+		"environmentMinTemps": [-3, -2, 0, 4, 9, 14, 18, 17, 13, 11, 9, 0],
+		"environmentMaxTemps": [3, 5, 7, 14, 19, 24, 26, 25, 18, 14, 10, 5],
 		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
 	},
 	"BaseBuildingData":
@@ -68,6 +73,7 @@
 			"disableHeightPlacementCheck": false,
 			"disableIsUnderwaterCheck": false,
 			"disableIsInTerrainCheck": false,
+			"disableColdAreaBuildingCheck": false,
 			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
 		},
 		"ConstructionData":
@@ -98,5 +104,9 @@
 		"ignoreNavItemsOwnership": false,
 		"displayPlayerPosition": false,
 		"displayNavInfo": true
+	},
+	"VehicleData":
+	{
+		"boatDecayMultiplier": 1
 	}
 }
